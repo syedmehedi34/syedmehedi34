@@ -6,6 +6,7 @@
 
 <h1 align="center">Hey! I'm Syed Mehedi Hasan</h1>
 
+
 ###
 
 <div align="center">
@@ -24,7 +25,7 @@
 ###
 
 <p align="left">✨ Breaking and fixing code since 2023.<br>📚 Currently exploring Next.js, TypeScript, and performance optimization.<br>🚀 Building sleek, responsive, and interactive web applications.<br>🎯 Goal: Master full-stack development and contribute to open-source projects.<br>💡 Fun fact: I debug more than I code, but that’s where the magic happens!</p>
-
+ 
 ###
 
 <h2 align="center">🚀 I code with</h2>
@@ -70,26 +71,33 @@
 
 ###
 
-<div align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/syedmehedi34/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; width: auto;"/>
   </a>
   <a href="https://www.facebook.com/syedmehedi34" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="height: 30px; width: auto;"/>
   </a>
-  <a href="mailto:syedmehedi34@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
+  <a href="mailto:syedmehedi34@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 30px; width: auto;"/>
   </a>
   <a href="https://wa.me/8801731771438" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="75" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height: 30px; width: auto;"/>
   </a>
-</div>
+</p>
 
 ###
 
 <p align="center">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
 
 ###
+
+
+
+
+
+
+
 
 
 
