@@ -50,6 +50,8 @@ I'm a skilled React Developer with a unique background in Electronics and Teleco
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34&theme=radical)
+
 
 
 
