@@ -1,91 +1,77 @@
-<h1 align="center">Hi 👋, I'm Syed Mehedi Hasan</h1>
-<h3 align="center">A passionate React Developer & Electronics Engineer</h3>
+<div align="center">
+  <img height="180" src="https://i.ibb.co.com/FMTpTYv/banner-git.png"  />
+</div>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover;"/>
-</p>
+###
 
-## 👨‍💻 About Me
+<h1 align="left">Hey! I'm Syed Mehedi Hasan</h1>
 
-I'm a skilled React Developer with a unique background in Electronics and Telecommunication Engineering. I combine my technical engineering expertise with modern web development skills to create efficient and innovative solutions. I'm passionate about building user-friendly applications and staying current with the latest web technologies.
+###
 
-## 🚀 Current Activities
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmehedi34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmehedi34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I'm currently working on advancing my Next.js skills
-- 🌱 I'm exploring advanced React patterns and best practices
-- 👯 I'm looking to collaborate on full-stack web applications
-- 💬 Ask me about React, JavaScript, and Web Development
+###
 
-## 🛠️ Technologies & Tools
+<h2 align="center">👨‍💻 About me</h2>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+###
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+<p align="left">Hi! I'm Mehedi, a **Front-End Web Developer** skilled in **HTML5, CSS3, Tailwind, JavaScript, React.js, Node.js, and MongoDB**. I'm also studying **Electronics and Telecommunication Engineering at RUET**, which enhances my problem-solving approach. Passionate about building responsive and interactive web apps, I'm always eager to learn new technologies like **Next.js and TypeScript**. Let's connect and build something awesome! 🚀</p>
 
-### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+###
 
-## 📊 GitHub Stats
+<p align="left">✨ Breaking and fixing code since 2023.<br>📚 Currently exploring Next.js, TypeScript, and performance optimization.<br>🚀 Building sleek, responsive, and interactive web applications.<br>🎯 Goal: Master full-stack development and contribute to open-source projects.<br>💡 Fun fact: I debug more than I code, but that’s where the magic happens!</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedmehedi34&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedmehedi34&theme=radical" alt="GitHub Streak" />
-</p>
+<h2 align="center">🚀 I code with</h2>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 
+###
 
+<h2 align="center">📫 Contact me</h2>
 
+###
 
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34&theme=radical)
-
-
-
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=syedmehedi34)]
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehedi34&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/syedmehedi34/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.facebook.com/syedmehedi34" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://github.com/syedmehedi34" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="mailto:syedmehedi34@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
   </a>
-</p>
+  <a href="https://wa.me/8801731771438" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="75" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedmehedi34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
+
+###
