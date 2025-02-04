@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="180" src="https://i.ibb.co.com/FMTpTYv/banner-git.png"  />
+  <img src="https://i.ibb.co.com/FMTpTYv/banner-git.png" style="width: 100%; height: auto;" />
 </div>
+
 
 ###
 
