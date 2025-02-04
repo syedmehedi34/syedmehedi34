@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="center">👨‍💻 About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 ###
 
@@ -29,7 +29,7 @@
  
 ###
 
-<h2 align="center">🚀 I code with</h2>
+<h2 align="left">🚀 I code with</h2>
 
 
 ###
@@ -68,7 +68,7 @@
 
 
 
-<h2 align="center">📫 Contact me</h2>
+<h2 align="left">📫 Contact me</h2>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<p align="center">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
+<p align="left">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
 
 ###
 
