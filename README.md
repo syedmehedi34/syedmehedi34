@@ -61,7 +61,7 @@ I'm a skilled React Developer with a unique background in Electronics and Teleco
 
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nirzak)]
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=syedmehedi34)]
 
 
 
