@@ -46,7 +46,11 @@ I'm a skilled React Developer with a unique background in Electronics and Teleco
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=syedmehedi34&theme=radical" alt="GitHub Streak" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syedmehedi34)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34)](https://git.io/streak-stats)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehedi34&layout=compact&theme=radical" alt="Top Languages" />
