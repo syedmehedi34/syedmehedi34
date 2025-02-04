@@ -48,11 +48,44 @@ I'm a skilled React Developer with a unique background in Electronics and Teleco
 </p>
 
 
+
+
+
+
+
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34)](https://git.io/streak-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syedmehedi34&theme=radical)
 
 
+
+
+
+
+## extra 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehedi34&layout=compact&theme=radical)
+
+### 🔥 Featured Project: Portfolio Website
+![Repo Size](https://img.shields.io/github/repo-size/syedmehedi34/portfolio)
+![License](https://img.shields.io/github/license/syedmehedi34/portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/syedmehedi34/portfolio)
+- 🚀 **Live Demo:** [Portfolio Website](https://yourwebsite.com)
+- 🛠 **Built With:** React, Next.js, Tailwind CSS
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedmehedi34&theme=react-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedmehedi34&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehedi34&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedmehedi34&color=brightgreen)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D1D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mehedi!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+## ends 
 
 
 <p align="center">
