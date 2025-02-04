@@ -31,7 +31,15 @@
 
 ###
 
-<p align="left">Hi! I'm Mehedi, a **Front-End Web Developer** skilled in **HTML5, CSS3, Tailwind, JavaScript, React.js, Node.js, and MongoDB**. I'm also studying **Electronics and Telecommunication Engineering at RUET**, which enhances my problem-solving approach. Passionate about building responsive and interactive web apps, I'm always eager to learn new technologies like **Next.js and TypeScript**. Let's connect and build something awesome! 🚀</p>
+<p align="left">
+  Hi! I'm Mehedi, a <strong>Front-End Web Developer</strong> skilled in 
+  <strong>HTML5, CSS3, Tailwind, JavaScript, React.js, Node.js, and MongoDB</strong>. 
+  I'm also studying <strong>Electronics and Telecommunication Engineering at RUET</strong>, 
+  which enhances my problem-solving approach. Passionate about building responsive and 
+  interactive web apps, I'm always eager to learn new technologies like <strong>Next.js and TypeScript</strong>. 
+  Let's connect and build something awesome! 🚀
+</p>
+
 
 ###
 
