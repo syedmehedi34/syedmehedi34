@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey! I'm Syed Mehedi Hasan</h1>
+<h1 align="center">Hey! I'm Syed Mehedi Hasan</h1>
 
 ###
 
@@ -72,6 +72,6 @@
 
 ###
 
-<p align="left">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
+<p align="center">💡 Let’s collaborate on awesome projects! Feel free to reach out. 🚀</p>
 
 ###
