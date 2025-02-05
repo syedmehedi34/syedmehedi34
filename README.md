@@ -5,7 +5,11 @@
 
 ###
 
-<h1 align="center">Hey! I'm Syed Mehedi Hasan</h1>
+<h1 align="center">
+    Hey! I'm Syed Mehedi Hasan <br>
+    <span style="display: block; font-size: 10px;">(Front-End Developer)</span>
+</h1>
+
 
 
 ###
